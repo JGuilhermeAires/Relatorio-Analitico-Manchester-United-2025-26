@@ -176,7 +176,7 @@ Relatório analítico (PDF): documentação da metodologia, análises, resultado
 
 Relatório completo com as análises da temporada 2025/26, acompanhado das visualizações desenvolvidas no Power BI.
 
-Visualizar relatório em PDF
+[Visualizar relatório em PDF]()
 
 ## 👨‍💻 Autor
 
