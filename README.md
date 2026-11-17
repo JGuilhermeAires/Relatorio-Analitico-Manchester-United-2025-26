@@ -176,7 +176,7 @@ Relatório analítico (PDF): documentação da metodologia, análises, resultado
 
 Relatório completo com as análises da temporada 2025/26, acompanhado das visualizações desenvolvidas no Power BI.
 
-[Visualizar relatório em PDF] (./Relatório Analítico – Manchester United 2025_26.pdf)
+[Visualizar relatório em PDF](./Relat%C3%B3rio%20Anal%C3%ADtico%20%E2%80%93%20Manchester%20United%202025_26.pdf)
 
 ## 👨‍💻 Autor
 
